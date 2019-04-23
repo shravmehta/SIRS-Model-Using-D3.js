@@ -1,0 +1,207 @@
+
+<svg width="815px" height="439px" viewBox="0 0 815 439" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -1.000000)">
+            <g id="Rectangle-4" transform="translate(126.000000, 114.000000)" fill="#D8D8D8" stroke="#979797">
+                <rect id="Rectangle" x="0.5" y="0.5" width="96" height="74"></rect>
+            </g>
+            <g id="Rectangle-3" transform="translate(405.000000, 116.000000)" fill="#D8D8D8" stroke="#979797">
+                <rect id="Rectangle" x="0.5" y="0.5" width="96" height="74"></rect>
+            </g>
+            <g id="Rectangle-2" transform="translate(717.000000, 116.000000)" fill="#D8D8D8" stroke="#979797">
+                <rect id="Rectangle" x="0.5" y="0.5" width="96" height="74"></rect>
+            </g>
+            <g id="Line-10" transform="translate(224.000000, 143.000000)" stroke="#979797" stroke-linecap="square">
+                <path d="M0,0.5 L161,0.5" id="Line"></path>
+            </g>
+            <g id="Line-7" transform="translate(502.000000, 143.000000)" stroke="#979797" stroke-linecap="square">
+                <path d="M0,0.5 L195,0.5" id="Line-2"></path>
+            </g>
+            <g id="Line-6" transform="translate(224.000000, 138.000000)" stroke="#979797" stroke-linecap="square">
+                <path d="M0,0.5 L161,0.5" id="Line-3"></path>
+            </g>
+            <g id="Line-5" transform="translate(502.000000, 138.000000)" stroke="#979797" stroke-linecap="square">
+                <path d="M0,0.5 L195,0.5" id="Line-4"></path>
+            </g>
+            <g id="Triangle-9" transform="translate(384.500000, 127.500000)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle" transform="translate(10.500000, 14.000000) rotate(90.000000) translate(-10.500000, -14.000000) " points="10.5 4 24 24 -3 24"></polygon>
+            </g>
+            <g id="Triangle-8" transform="translate(696.500000, 129.500000)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle" transform="translate(10.500000, 14.000000) rotate(90.000000) translate(-10.500000, -14.000000) " points="10.5 4 24 24 -3 24"></polygon>
+            </g>
+            <g id="Triangle-7" transform="translate(293.000000, 117.000000)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle" transform="translate(12.000000, 13.500000) rotate(180.000000) translate(-12.000000, -13.500000) " points="12 0 24 27 0 27"></polygon>
+            </g>
+            <g id="Triangle-6" transform="translate(292.233780, 140.207373)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle" transform="translate(13.000000, 14.500000) rotate(359.000000) translate(-13.000000, -14.500000) " points="13 1 25 28 1 28"></polygon>
+            </g>
+            <g id="Triangle-5" transform="translate(580.233780, 138.207373)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle" transform="translate(13.000000, 14.500000) rotate(359.000000) translate(-13.000000, -14.500000) " points="13 1 25 28 1 28"></polygon>
+            </g>
+            <g id="Triangle-4" transform="translate(581.000000, 114.000000)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle" transform="translate(12.000000, 13.500000) rotate(180.000000) translate(-12.000000, -13.500000) " points="12 0 24 27 0 27"></polygon>
+            </g>
+            <g id="Path-14" transform="translate(96.000000, 333.000000)" stroke="#979797">
+                <path d="M0,0 C0,55.7807597 49.4725351,101 110.5,101 L110.5,101 C171.527465,101 221,55.7807597 221,0" id="Path"></path>
+            </g>
+            <g id="Path-Copy-16" transform="translate(445.000000, 11.000000)" stroke="#979797">
+                <path d="M2.84217094e-14,0 C2.84217094e-14,35.8985087 37.3848034,89 74.9401664,89 L74.9401664,89 C112.495529,89 142.940166,59.8985087 142.940166,24" id="Path-Copy-2" transform="translate(71.470083, 44.500000) scale(-1, -1) translate(-71.470083, -44.500000) "></path>
+            </g>
+            <g id="Path-13" transform="translate(305.000000, 7.000000)" stroke="#979797">
+                <path d="M0,93 C37.555363,93 68,51.3624817 68,0" id="Path" transform="translate(34.000000, 46.500000) scale(-1, -1) translate(-34.000000, -46.500000) "></path>
+            </g>
+            <g id="Path-Copy-15" transform="translate(15.000000, 300.000000)" stroke="#979797">
+                <path d="M0,61 C20.9868205,61 38,33.6893697 38,0" id="Path-Copy-4" transform="translate(19.000000, 30.500000) scale(-1, -1) translate(-19.000000, -30.500000) "></path>
+            </g>
+            <g id="Path-Copy-14" transform="translate(668.000000, 308.000000)" stroke="#979797">
+                <path d="M0,61 C20.9868205,61 38,33.6893697 38,0" id="Path-Copy-5" transform="translate(19.000000, 30.500000) scale(1, -1) translate(-19.000000, -30.500000) "></path>
+            </g>
+            <g id="Path-Copy-13" transform="translate(500.000000, 157.000000)" stroke="#979797">
+                <path d="M0,119 C47.4964885,119 86,65.7218852 86,0" id="Path-Copy-7" transform="translate(43.000000, 59.500000) scale(1, -1) translate(-43.000000, -59.500000) "></path>
+            </g>
+            <g id="Path-Copy-12" transform="translate(624.000000, 161.000000)" stroke="#979797">
+                <path d="M0,61 C34.7939392,61 63,33.6893697 63,0" id="Path-Copy-6" transform="translate(31.500000, 30.500000) scale(1, -1) translate(-31.500000, -30.500000) "></path>
+            </g>
+            <g id="Path-Copy-11" transform="translate(96.000000, 146.000000)" stroke="#979797">
+                <path d="M0,130 C17.1208272,130 31,71.7970175 31,0" id="Path-Copy-3" transform="translate(15.500000, 65.000000) scale(-1, -1) translate(-15.500000, -65.000000) "></path>
+            </g>
+            <g id="Path-Copy-10" transform="translate(360.000000, 338.000000)" stroke="#979797">
+                <path d="M0,0 C0,55.7807597 54.8451181,101 122.5,101 L122.5,101 C190.154882,101 245,55.7807597 245,0" id="Path-Copy"></path>
+            </g>
+            <g id="Infectivity-2" transform="translate(385.000000, 0.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Infectivity">
+                    <tspan x="0" y="11">Infectivity</tspan>
+                </text>
+            </g>
+            <g id="Triangle-3" transform="translate(294.120644, 98.173458)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle" transform="translate(11.000000, 8.000000) rotate(179.000000) translate(-11.000000, -8.000000) " points="11 1 21 15 1 15"></polygon>
+            </g>
+            <g id="Triangle-Copy-18" transform="translate(305.120644, 325.173458)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle-Copy-5" transform="translate(12.000000, 9.000000) rotate(11.000000) translate(-12.000000, -9.000000) " points="12 2 22 16 2 16"></polygon>
+            </g>
+            <g id="Triangle-Copy-17" transform="translate(234.063615, 234.630136)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle-Copy-8" transform="translate(12.000000, 9.000000) rotate(-10.000000) translate(-12.000000, -9.000000) " points="12 2 22 16 2 16"></polygon>
+            </g>
+            <g id="Triangle-Copy-16" transform="translate(413.063615, 226.630136)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle-Copy-9" transform="translate(13.000000, 11.000000) rotate(29.000000) translate(-13.000000, -11.000000) " points="13 4 23 18 3 18"></polygon>
+            </g>
+            <g id="Triangle-Copy-15" transform="translate(350.151935, 325.779480)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle-Copy-6" transform="translate(11.000000, 8.000000) rotate(1.000000) translate(-11.000000, -8.000000) " points="11 1 21 15 1 15"></polygon>
+            </g>
+            <g id="Triangle-Copy-14" transform="translate(619.120644, 148.173458)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle-Copy-7" transform="translate(10.000000, 12.000000) rotate(-77.000000) translate(-10.000000, -12.000000) " points="10 5 20 19 0 19"></polygon>
+            </g>
+            <g id="Triangle-Copy-13" transform="translate(85.120644, 266.173458)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle-Copy" transform="translate(11.000000, 8.000000) rotate(179.000000) translate(-11.000000, -8.000000) " points="11 1 21 15 1 15"></polygon>
+            </g>
+            <g id="Triangle-Copy-12" transform="translate(43.120644, 289.173458)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle-Copy-4" transform="translate(10.000000, 12.000000) rotate(77.000000) translate(-10.000000, -12.000000) " points="10 5 20 19 0 19"></polygon>
+            </g>
+            <g id="Triangle-Copy-11" transform="translate(575.120644, 266.173458)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle-Copy-2" transform="translate(11.000000, 8.000000) rotate(179.000000) translate(-11.000000, -8.000000) " points="11 1 21 15 1 15"></polygon>
+            </g>
+            <g id="Triangle-Copy-10" transform="translate(657.120644, 297.173458)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle-Copy-3" transform="translate(9.000000, 11.000000) rotate(276.000000) translate(-9.000000, -11.000000) " points="9 4 19 18 -1 18"></polygon>
+            </g>
+            <g id="Triangle-2" transform="translate(579.940166, 92.350845)" fill="#D8D8D8" stroke="#979797">
+                <polygon id="Triangle" transform="translate(12.000000, 11.000000) rotate(157.000000) translate(-12.000000, -11.000000) " points="12 4 22 18 2 18"></polygon>
+            </g>
+            <g id="Path-12" transform="translate(453.000000, 102.850845)" stroke="#979797">
+                <path d="" id="Path-2"></path>
+            </g>
+            <g id="Path-11" transform="translate(453.500000, 105.500000)" stroke="#979797">
+                <path d="" id="Path-3"></path>
+            </g>
+            <g id="Path-10" transform="translate(452.500000, 106.000000)" stroke="#979797">
+                <path d="" id="Path-4"></path>
+            </g>
+            <g id="Path-9" transform="translate(454.000000, 106.673458)" stroke="#979797">
+                <path d="" id="Path-5"></path>
+            </g>
+            <g id="Path-8" transform="translate(459.507812, 107.173458)" stroke="#979797">
+                <path d="" id="Path-6"></path>
+            </g>
+            <g id="Infection-Rate-2" transform="translate(280.000000, 181.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Infection-Rate">
+                    <tspan x="0" y="11">Infection Rate</tspan>
+                </text>
+            </g>
+            <g id="Recovery-2" transform="translate(568.000000, 181.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Recovery">
+                    <tspan x="0" y="11">Recovery</tspan>
+                </text>
+            </g>
+            <g id="Contacts-between-inf-2" transform="translate(277.000000, 286.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Contacts-between-inf">
+                    <tspan x="0" y="11">Contacts between </tspan>
+                    <tspan x="0" y="25">infected and uninfected </tspan>
+                    <tspan x="0" y="39">people</tspan>
+                </text>
+            </g>
+            <g id="Susceptible-contact-2" transform="translate(65.000000, 283.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Susceptible-contact">
+                    <tspan x="0" y="11">Susceptible</tspan>
+                    <tspan x="0" y="25">contact</tspan>
+                </text>
+            </g>
+            <g id="Probability-of-conta-2" transform="translate(568.000000, 286.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Probability-of-conta">
+                    <tspan x="0" y="11">Probability of </tspan>
+                    <tspan x="0" y="25">contact between</tspan>
+                    <tspan x="0" y="39">infected people</tspan>
+                </text>
+            </g>
+            <g id="Average-duration-of-2" transform="translate(676.000000, 227.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Average-duration-of">
+                    <tspan x="0" y="11">Average duration </tspan>
+                    <tspan x="0" y="25">of infection</tspan>
+                </text>
+            </g>
+            <g id="Total-Population-2" transform="translate(656.000000, 381.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Total-Population">
+                    <tspan x="0" y="11">Total Population</tspan>
+                </text>
+            </g>
+            <g id="Contact-frequency-2" transform="translate(0.000000, 378.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Contact-frequency">
+                    <tspan x="0" y="11">Contact </tspan>
+                    <tspan x="0" y="25">frequency</tspan>
+                </text>
+            </g>
+            <g id="Susceptible-Stock-2" transform="translate(127.000000, 86.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Susceptible-Stock">
+                    <tspan x="0" y="11">Susceptible Stock</tspan>
+                </text>
+            </g>
+            <g id="Infected-Stock-2" transform="translate(406.000000, 87.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Infected-Stock">
+                    <tspan x="0" y="11">Infected Stock</tspan>
+                </text>
+            </g>
+            <g id="Recovered-Stock-2" transform="translate(723.000000, 86.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="Recovered-Stock">
+                    <tspan x="0" y="11">Recovered Stock</tspan>
+                </text>
+            </g>
+            <g id="Path-7" transform="translate(165.000000, 222.000000)" stroke="#979797">
+                <path d="M42,0 C18.8040405,0 0,18.8040405 0,42 C0,65.1959595 18.8040405,84 42,84 L42,84 C65.1959595,84 84,65.1959595 84,42 C84,36.7011286 83.0187193,31.6314475 81.227965,26.9627639" id="Path"></path>
+            </g>
+            <g id="Path-Copy-9" transform="translate(419.000000, 216.000000)" stroke="#979797">
+                <path d="M42,0 C18.8040405,0 0,18.8040405 0,42 C0,65.1959595 18.8040405,84 42,84 L42,84 C65.1959595,84 84,65.1959595 84,42 C84,36.7011286 83.0187193,31.6314475 81.227965,26.9627639" id="Path-Copy-8" transform="translate(42.000000, 42.000000) scale(-1, 1) translate(-42.000000, -42.000000) "></path>
+            </g>
+            <g id="B1-2" transform="translate(199.000000, 241.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="B1">
+                    <tspan x="0" y="11">B1</tspan>
+                </text>
+            </g>
+            <g id="R1-2" transform="translate(452.000000, 241.000000)" fill="#FEFAFA" font-family="Helvetica" font-size="12" font-weight="normal">
+                <text id="R1">
+                    <tspan x="0" y="11">R1</tspan>
+                </text>
+            </g>
+            <g id="Line-9" transform="translate(305.000000, 200.000000)" fill="#979797" fill-rule="nonzero">
+                <path id="Line-8" d="M0.926031294,8.9871153 L2.51075597,81.8359234 L1.5109925,81.8576718 L-0.0737321802,9.00886376 L-4.07278608,9.09585763 L0.23041336,0.000118262933 L4.92508519,8.90012143 L0.926031294,8.9871153 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

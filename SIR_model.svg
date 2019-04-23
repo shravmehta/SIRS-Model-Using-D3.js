@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="815px" height="440px" viewBox="0 0 815 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>SIR_model</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="127.5" y="106.5" width="96" height="74"></rect>
+        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="405.5" y="106.5" width="96" height="74"></rect>
+        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="717.5" y="106.5" width="96" height="74"></rect>
+        <path d="M224,143.5 L385,143.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M502,143.5 L697,143.5" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M224,138.5 L385,138.5" id="Line-3" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M502,138.5 L697,138.5" id="Line-4" stroke="#979797" stroke-linecap="square"></path>
+        <polygon id="Triangle" stroke="#979797" fill="#D8D8D8" transform="translate(395.000000, 141.500000) rotate(90.000000) translate(-395.000000, -141.500000) " points="395 131.5 408.5 151.5 381.5 151.5"></polygon>
+        <polygon id="Triangle" stroke="#979797" fill="#D8D8D8" transform="translate(707.000000, 143.500000) rotate(90.000000) translate(-707.000000, -143.500000) " points="707 133.5 720.5 153.5 693.5 153.5"></polygon>
+        <polygon id="Triangle" stroke="#979797" fill="#D8D8D8" transform="translate(305.000000, 130.500000) rotate(180.000000) translate(-305.000000, -130.500000) " points="305 117 317 144 293 144"></polygon>
+        <polygon id="Triangle" stroke="#979797" fill="#D8D8D8" transform="translate(305.233780, 154.707373) rotate(359.000000) translate(-305.233780, -154.707373) " points="305.23378 141.207373 317.23378 168.207373 293.23378 168.207373"></polygon>
+        <polygon id="Triangle" stroke="#979797" fill="#D8D8D8" transform="translate(593.233780, 152.707373) rotate(359.000000) translate(-593.233780, -152.707373) " points="593.23378 139.207373 605.23378 166.207373 581.23378 166.207373"></polygon>
+        <polygon id="Triangle" stroke="#979797" fill="#D8D8D8" transform="translate(593.000000, 127.500000) rotate(180.000000) translate(-593.000000, -127.500000) " points="593 114 605 141 581 141"></polygon>
+        <path d="M96,333 C96,388.78076 145.472535,434 206.5,434 L206.5,434 C267.527465,434 317,388.78076 317,333" id="Path" stroke="#979797"></path>
+        <path d="M445,11 C445,46.8985087 482.384803,100 519.940166,100 L519.940166,100 C557.495529,100 587.940166,70.8985087 587.940166,35" id="Path-Copy-2" stroke="#979797" transform="translate(516.470083, 55.500000) scale(-1, -1) translate(-516.470083, -55.500000) "></path>
+        <path d="M305,100 C342.555363,100 373,58.3624817 373,7" id="Path" stroke="#979797" transform="translate(339.000000, 53.500000) scale(-1, -1) translate(-339.000000, -53.500000) "></path>
+        <path d="M15,361 C35.9868205,361 53,333.68937 53,300" id="Path-Copy-4" stroke="#979797" transform="translate(34.000000, 330.500000) scale(-1, -1) translate(-34.000000, -330.500000) "></path>
+        <path d="M668,369 C688.98682,369 706,341.68937 706,308" id="Path-Copy-5" stroke="#979797" transform="translate(687.000000, 338.500000) scale(1, -1) translate(-687.000000, -338.500000) "></path>
+        <path d="M500,276 C547.496488,276 586,222.721885 586,157" id="Path-Copy-7" stroke="#979797" transform="translate(543.000000, 216.500000) scale(1, -1) translate(-543.000000, -216.500000) "></path>
+        <path d="M624,222 C658.793939,222 687,194.68937 687,161" id="Path-Copy-6" stroke="#979797" transform="translate(655.500000, 191.500000) scale(1, -1) translate(-655.500000, -191.500000) "></path>
+        <path d="M96,276 C113.120827,276 127,217.797017 127,146" id="Path-Copy-3" stroke="#979797" transform="translate(111.500000, 211.000000) scale(-1, -1) translate(-111.500000, -211.000000) "></path>
+        <path d="M360,338 C360,393.78076 414.845118,439 482.5,439 L482.5,439 C550.154882,439 605,393.78076 605,338" id="Path-Copy" stroke="#979797"></path>
+        <text id="Infectivity" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="385" y="11">Infectivity</tspan>
+        </text>
+        <polygon id="Triangle" stroke="#979797" fill="#D8D8D8" transform="translate(305.120644, 106.173458) rotate(179.000000) translate(-305.120644, -106.173458) " points="305.120644 99.1734579 315.120644 113.173458 295.120644 113.173458"></polygon>
+        <polygon id="Triangle-Copy-5" stroke="#979797" fill="#D8D8D8" transform="translate(317.120644, 334.173458) rotate(11.000000) translate(-317.120644, -334.173458) " points="317.120644 327.173458 327.120644 341.173458 307.120644 341.173458"></polygon>
+        <polygon id="Triangle-Copy-8" stroke="#979797" fill="#D8D8D8" transform="translate(246.063615, 243.630136) rotate(-10.000000) translate(-246.063615, -243.630136) " points="246.063615 236.630136 256.063615 250.630136 236.063615 250.630136"></polygon>
+        <polygon id="Triangle-Copy-9" stroke="#979797" fill="#D8D8D8" transform="translate(426.063615, 237.630136) rotate(29.000000) translate(-426.063615, -237.630136) " points="426.063615 230.630136 436.063615 244.630136 416.063615 244.630136"></polygon>
+        <polygon id="Triangle-Copy-6" stroke="#979797" fill="#D8D8D8" transform="translate(361.151935, 333.779480) rotate(1.000000) translate(-361.151935, -333.779480) " points="361.151935 326.77948 371.151935 340.77948 351.151935 340.77948"></polygon>
+        <polygon id="Triangle-Copy-7" stroke="#979797" fill="#D8D8D8" transform="translate(629.120644, 160.173458) rotate(-77.000000) translate(-629.120644, -160.173458) " points="629.120644 153.173458 639.120644 167.173458 619.120644 167.173458"></polygon>
+        <polygon id="Triangle-Copy" stroke="#979797" fill="#D8D8D8" transform="translate(96.120644, 274.173458) rotate(179.000000) translate(-96.120644, -274.173458) " points="96.1206438 267.173458 106.120644 281.173458 86.1206438 281.173458"></polygon>
+        <polygon id="Triangle-Copy-4" stroke="#979797" fill="#D8D8D8" transform="translate(53.120644, 301.173458) rotate(77.000000) translate(-53.120644, -301.173458) " points="53.1206438 294.173458 63.1206438 308.173458 43.1206438 308.173458"></polygon>
+        <polygon id="Triangle-Copy-2" stroke="#979797" fill="#D8D8D8" transform="translate(586.120644, 274.173458) rotate(179.000000) translate(-586.120644, -274.173458) " points="586.120644 267.173458 596.120644 281.173458 576.120644 281.173458"></polygon>
+        <polygon id="Triangle-Copy-3" stroke="#979797" fill="#D8D8D8" transform="translate(666.120644, 308.173458) rotate(276.000000) translate(-666.120644, -308.173458) " points="666.120644 301.173458 676.120644 315.173458 656.120644 315.173458"></polygon>
+        <polygon id="Triangle" stroke="#979797" fill="#D8D8D8" transform="translate(591.940166, 103.350845) rotate(157.000000) translate(-591.940166, -103.350845) " points="591.940166 96.3508453 601.940166 110.350845 581.940166 110.350845"></polygon>
+        <path d="" id="Path-2" stroke="#979797"></path>
+        <path d="" id="Path-3" stroke="#979797"></path>
+        <path d="" id="Path-4" stroke="#979797"></path>
+        <path d="" id="Path-5" stroke="#979797"></path>
+        <path d="" id="Path-6" stroke="#979797"></path>
+        <text id="Infection-Rate" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="280" y="192">Infection Rate</tspan>
+        </text>
+        <text id="Recovery" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="568" y="192">Recovery</tspan>
+        </text>
+        <text id="Contacts-between-inf" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="277" y="297">Contacts between </tspan>
+            <tspan x="277" y="311">infected and uninfected </tspan>
+            <tspan x="277" y="325">people</tspan>
+        </text>
+        <text id="Susceptible-contact" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="65" y="294">Susceptible</tspan>
+            <tspan x="65" y="308">contact</tspan>
+        </text>
+        <text id="Probability-of-conta" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="568" y="297">Probability of </tspan>
+            <tspan x="568" y="311">contact between</tspan>
+            <tspan x="568" y="325">infected people</tspan>
+        </text>
+        <text id="Average-duration-of" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="676" y="238">Average duration </tspan>
+            <tspan x="676" y="252">of infection</tspan>
+        </text>
+        <text id="Total-Population" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="656" y="392">Total Population</tspan>
+        </text>
+        <text id="Contact-frequency" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="0" y="389">Contact </tspan>
+            <tspan x="0" y="403">frequency</tspan>
+        </text>
+        <text id="Susceptible-Stock" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="127" y="97">Susceptible Stock</tspan>
+        </text>
+        <text id="Infected-Stock" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="406" y="97">Infected Stock</tspan>
+        </text>
+        <text id="Recovered-Stock" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="723" y="97">Recovered Stock</tspan>
+        </text>
+        <path d="M207,222 C183.804041,222 165,240.804041 165,264 C165,287.195959 183.804041,306 207,306 L207,306 C230.195959,306 249,287.195959 249,264 C249,258.701129 248.018719,253.631448 246.227965,248.962764" id="Path" stroke="#979797"></path>
+        <path d="M461,216 C437.804041,216 419,234.804041 419,258 C419,281.195959 437.804041,300 461,300 L461,300 C484.195959,300 503,281.195959 503,258 C503,252.701129 502.018719,247.631448 500.227965,242.962764" id="Path-Copy-8" stroke="#979797" transform="translate(461.000000, 258.000000) scale(-1, 1) translate(-461.000000, -258.000000) "></path>
+        <text id="B1" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="199" y="252">B1</tspan>
+        </text>
+        <text id="R1" font-family="Helvetica" font-size="12" font-weight="normal" fill="#FEFAFA">
+            <tspan x="452" y="252">R1</tspan>
+        </text>
+    </g>
+</svg>
